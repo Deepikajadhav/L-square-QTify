@@ -1,0 +1,28 @@
+ .navbar {
+  background-color: var(--color-primary);
+  height: 74px;
+  width: 100vw;
+  padding: 0px 32px;
+  padding-left: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}  
+
+.navbar img {
+  margin-left: 10px; /* space to its left */
+}
+
+.button{
+  color:#00a652;
+  font-size: 50%;
+  color: white;
+}  
+
+.searchContainer {
+  background: #000;
+  border-radius: 20px;
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+}
